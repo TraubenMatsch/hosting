@@ -1,0 +1,27 @@
+fav icon
+
+startseite
+lending page
+
+about
+
+impressum
+
+produkt overview
+produkt gruppen seite
+produkt seite
+    domains
+    webspaces
+
+support
+
+user register
+user login
+user interface
+    user dashboard
+    user einstellungen
+    payment and transaction
+    
+    
+
+
